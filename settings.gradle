@@ -1,0 +1,2 @@
+include ':app', ':testhandler'
+rootProject.name='testInnerFramework'
